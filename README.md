@@ -4,4 +4,4 @@
 
                   *La distancia entre un sueño y la realidad se llama DISCIPLINA*
 
-![]([![](https://imgur.com/a/w71UQ2T.jpg)](https://imgur.com/a/w71UQ2T))
+![](https://imgur.com/a/w71UQ2T)

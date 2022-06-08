@@ -6,5 +6,6 @@
 
 *Creado por FannyLD
 *Incluye ejemplos en WIndows, Linux y Mac 
+*Disponible para todos
 
 ![](https://i.imgur.com/LZpTyiq.png)

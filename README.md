@@ -5,5 +5,6 @@
 *La distancia entre un sueño y la realidad se llama DISCIPLINA*
 
 *Creado por FannyLD
+*Incluye ejemplos en WIndows, Linux y Mac 
 
 ![](https://i.imgur.com/LZpTyiq.png)
